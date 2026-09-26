@@ -20,9 +20,11 @@
       "KeyaanMatrix",
       "NainaEnock",
       "Yutai007",
+      "a-gupta123",
       "a-varigonda",
       "aanya21gupta",
       "amishigupta",
+      "angely32",
       "appleorange",
       "arhavthakkar",
       "arjunmaganti",
@@ -31,6 +33,7 @@
       "ay93546",
       "bmood25",
       "brady-q",
+      "cahove",
       "carolyne-chiang",
       "cheezypegasus",
       "csongfm",
@@ -39,6 +42,7 @@
       "dishon949",
       "dzhou08",
       "eitankrajewski",
+      "ethanliu2026",
       "graceguo16",
       "henhen1235",
       "hnaracodes",
@@ -47,6 +51,7 @@
       "justinwu80",
       "k3t6hup",
       "kevin20074321",
+      "khushij312",
       "klz037",
       "kzz9984",
       "noe2971",
@@ -59,12 +64,14 @@
       "s520y",
       "sagelu1",
       "samad2084",
+      "sdavidi-ai",
       "sophiez3",
       "sophiezxh",
       "stingray8",
       "szzxt",
       "tejaschaudhari131",
       "veriivy",
+      "victoriasun2007",
       "ziwei-che"
     ]
   },
@@ -87,7 +94,9 @@
       "abthakka",
       "amaganti",
       "amishig",
+      "angely",
       "aravagar",
+      "aryangup",
       "audreyya",
       "audreyz2",
       "avarigon",
@@ -97,10 +106,12 @@
       "carolyne",
       "cesong",
       "charlie3",
+      "chove",
       "darisan",
       "davidx2",
       "dhzhou",
       "ekrajews",
+      "ethanlil",
       "ethanzhe",
       "hhxu",
       "hnara",
@@ -113,6 +124,7 @@
       "kasubash",
       "kelseyli",
       "keyaans",
+      "khushij",
       "ktan2",
       "kzzhao",
       "liweix",
@@ -126,12 +138,14 @@
       "sabellah",
       "sagelu",
       "samad",
+      "sdavidi",
       "seany2",
       "sophiez3",
       "susanzuo",
       "szhang4",
       "tchaudha",
       "tingrayc",
+      "vmsun",
       "yumengg2",
       "yutailon",
       "ziweiche"
@@ -170,14 +184,42 @@
       ],
       "create_oidc_clients": false
     },
+    "brieflyai": {
+      "name": "Briefly AI",
+      "description": "Briefly allows users to curate multiple newsletters\nbased on their interests like in sports or finance.\nAn AI will automatically generate the newsletter described and email\nit to users at user-specified times.\n",
+      "members": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "repos": [
+        "ai-newsletter"
+      ],
+      "create_oidc_clients": false,
+      "website": "",
+      "server": ""
+    },
     "cmu-bulletin": {
       "name": "CMU Bulletin",
       "description": "Your one-stop shop for everything happening at Carnegie Mellon. Never miss an event on campus again.\n",
       "members": {
         "github_usernames": [
+          "angely32",
           "ziwei-che"
         ],
         "andrew_ids": [
+          "angely",
           "ziweiche"
         ]
       },
@@ -228,12 +270,14 @@
           "SamEthanMathew",
           "Yuxiang-Huang",
           "a-varigonda",
+          "cahove",
           "dishon949",
           "hanabenko",
           "ziwei-che"
         ],
         "andrew_ids": [
           "avarigon",
+          "chove",
           "hbenko",
           "ndishon",
           "semathew",

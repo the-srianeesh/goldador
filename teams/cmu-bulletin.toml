@@ -32,3 +32,6 @@ leads = ["ziwei-che"]
 # List of members for this timeframe.
 [[membership.members]]
 github-username = "ziwei-che"
+
+[[membership.members]]
+github-username = "angely32"
